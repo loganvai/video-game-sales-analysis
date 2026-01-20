@@ -1,20 +1,20 @@
-# Исследование факторов, влияющих на успешность видеоигр
+## Research on Factors Influencing Video Game Success
 
-## 📌 Цель
-Определить закономерности, влияющие на успешность видеоигр, чтобы рекомендовать, на какие игры стоит направить рекламный бюджет.
+## 📌 Objective
+- Identify patterns that influence the success of video games in order to recommend which games should receive advertising budget allocation.
 
-## 📂 Данные
-- Исторические данные о продажах видеоигр, жанрах, платформах, оценках пользователей и критиков;
-- Источник: открытые источники.
+## 📂 Data
+- Historical data on video game sales, genres, platforms, user ratings, and critic scores;
+- Source: open data sources.
 
-## 🧪  Что сделано в рамках проекта:
-- Провести предобработку и анализ данных с помощью Python и pandas;
-- Составить портреты пользователей в разных регионах мира;
-- Использовать критерий Стьюдента для независимых выборок;
-- Проверить несколько гипотез;
-- Выявить параметры, определяющие успешность игры в каждом регионе;
-- Подготовить отчёт для магазина компьютерных игр, чтобы планировать рекламные кампании.
+## 🧪 Work Completed
+- Performed data preprocessing and analysis using Python and pandas;
+- Created user profiles for different regions worldwide;
+- Applied Student’s t-test for independent samples;
+- Tested multiple hypotheses;
+- Identified key factors determining game success in each region;
+- Prepared an analytical report for a video game store to support advertising campaign planning.
 
-## 📈 Инструменты
+## 📈 Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
